@@ -1,5 +1,5 @@
 {
-  "project_name": "Name of the project",
+  "project_name": "<Assay-ID>_<keyword>_YYYYMMDD",
   "author": "Author of the project",
   "date": "Date of creation",
   "short_desc": "Provide a short summary of the experiment"
